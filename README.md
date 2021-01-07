@@ -7,3 +7,6 @@
 
 # 抓包版
   用python实现，目前QTGUI写了个简单界面。抢到过一次，暂时自用调试，待稳定了再考虑发布。登录一直比较麻烦，暂时没有想到好的方法，都是手动抓包
+
+发个预览
+![](https://raw.githubusercontent.com/583/suning_qianggou/main/maotai.gif)
