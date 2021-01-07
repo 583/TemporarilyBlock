@@ -10,3 +10,4 @@
 
 发个预览
 ![](https://raw.githubusercontent.com/583/suning_qianggou/main/maotai.gif)
+这个是JD版本的优化版，测试多了两台稳定，目前是可以用了
