@@ -10,4 +10,4 @@
 
 发个预览
 ![](https://raw.githubusercontent.com/583/suning_qianggou/main/maotai.gif)
-这个是JD版本的优化版，测试多了两台稳定，目前是可以用了
+这个是JD版本的优化版，测试多了两台稳定，目前是可以用了，基本上把eid和fp步骤也在里面实现了，不需要selenium这种太重的框架
